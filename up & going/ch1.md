@@ -1,5 +1,7 @@
 # You Don't Know JS: Up & Going
+# 你不知道的JS：UP 和 Going
 # Chapter 1: Into Programming
+# 第一章：了解编程
 
 Welcome to the *You Don't Know JS* (*YDKJS*) series.
 
