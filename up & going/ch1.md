@@ -9,9 +9,10 @@ Welcome to the *You Don't Know JS* (*YDKJS*) series.
 *Up & Going*介绍了编程的一些基本概念——当然我们主要倾向于JavaScript（常缩写为JS）和如何接近与理解本系列的其余部分。特别是你刚刚对编程或JavaScript产生兴趣，*up and going*这本书会简单探讨你需要掌握什么。
 
 This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.  
-这本书刚开始对编程的基本原则进行了非常高水平的讲解。
+这本书刚开始对编程的基本原则进行了非常高水平的讲解。考虑到部分之前几乎没有编程经验现在正开始学习*YDKJS*和正寻找这些书帮助获得自己理解编程通过
 
-Chapter 1 should be approached as a quick overview of the things you'll want to learn more about and practice to get *into programming*. There are also many other fantastic programming introduction resources that can help you dig into these topics further, and I encourage you to learn from them in addition to this chapter.
+Chapter 1 should be approached as a quick overview of the things you'll want to learn more about and practice to get *into programming*. There are also many other fantastic programming introduction resources that can help you dig into these topics further, and I encourage you to learn from them in addition to this chapter.  
+第一章应该是靠近这些东西的一个快捷的概述，你想要在这个章节了解更多相关的实践
 
 Once you feel comfortable with general programming basics, Chapter 2 will help guide you to a familiarity with JavaScript's flavor of programming. Chapter 2 introduces what JavaScript is about, but again, it's not a comprehensive guide -- that's what the rest of the *YDKJS* books are for!
 
